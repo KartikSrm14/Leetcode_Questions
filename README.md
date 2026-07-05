@@ -7,6 +7,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
 | [0896-monotonic-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0896-monotonic-array) |
+| [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,4 +16,9 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
