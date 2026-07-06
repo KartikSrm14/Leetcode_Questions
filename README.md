@@ -8,6 +8,7 @@
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
 | [0896-monotonic-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Dynamic Programming
 |  |
 | ------- |
