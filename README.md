@@ -9,6 +9,7 @@
 | [0896-monotonic-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,8 +19,21 @@
 | ------- |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
+## Hash Table
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
+## Two Pointers
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
