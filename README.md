@@ -11,6 +11,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1920-build-array-from-permutation](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +42,5 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
