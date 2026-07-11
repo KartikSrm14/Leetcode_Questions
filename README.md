@@ -11,6 +11,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
