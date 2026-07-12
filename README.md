@@ -49,4 +49,12 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
