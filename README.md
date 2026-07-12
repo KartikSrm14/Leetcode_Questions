@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
 | [0896-monotonic-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0896-monotonic-array) |
@@ -36,6 +37,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
