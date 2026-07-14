@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
