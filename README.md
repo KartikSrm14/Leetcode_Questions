@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -56,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Linked List
 |  |
