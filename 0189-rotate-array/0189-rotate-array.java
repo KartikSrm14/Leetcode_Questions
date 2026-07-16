@@ -2,21 +2,21 @@ class Solution {
     public void rotate(int[] nums, int k) {
         rot(nums,k);
     }
-
     public static void rot(int[] arr,int k){
+        int[] ans = new int[arr.length];
         k = k%arr.length;
-        fuc(arr,0,arr.length-1);
-        fuc(arr,0,k-1);
-        fuc(arr,k,arr.length-1);
+        int source = arr.length-k;
+        for(int i=0; i<k; i++){
+            ans[i]= arr[source];
+            source++;
         }
-
-        public static void fuc(int[] arr, int i, int j){
-            while(i<j){
-                int temp = arr[i];
-                arr[i] = arr[j];
-                arr[j] = temp;
-                i++;
-                j--;
-            }
+        int j=0;
+        for(int i=k; i<arr.length; i++){
+            ans[i] = arr[j] ;
+            j++;
+        }
+        for(int i=0; i<arr.length; i++){
+            arr[i] = ans[i];
         }
     }
+}
