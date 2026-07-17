@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
@@ -27,18 +28,21 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0169-majority-element) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -75,4 +79,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
