@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0169-majority-element) |
@@ -24,6 +25,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -82,5 +84,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
