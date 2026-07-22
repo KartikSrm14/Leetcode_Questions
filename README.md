@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -45,6 +46,7 @@
 | [0001-two-sum](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -86,4 +88,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
