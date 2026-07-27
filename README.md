@@ -61,6 +61,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0278-first-bad-version) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
