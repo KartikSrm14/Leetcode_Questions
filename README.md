@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
