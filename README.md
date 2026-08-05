@@ -17,6 +17,7 @@
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
