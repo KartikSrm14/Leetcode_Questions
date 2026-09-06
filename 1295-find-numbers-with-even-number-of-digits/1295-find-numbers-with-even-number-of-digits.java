@@ -1,21 +1,22 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        return number(nums);
+        return zoo(nums);
     }
 
-    public static int number(int[] arr){
-        int total_even =0;
+    public static int zoo(int[] arr){
+        int even = 0;
         for(int i=0; i<arr.length; i++){
-            int count =0;
-            while(arr[i]>0){
-            int rem = arr[i] % 10;
-            count++;
-            arr[i] = arr[i]/10;
+            int n = arr[i];
+            int count = 0;
+            while(n>0){
+                int rem = n%10;
+                count++;
+                n=n/10;
+            }
+            if(count%2==0){
+                even++;
+            }
         }
-        if(count%2 ==0){
-            total_even++;
-        }
-        }
-        return total_even;
+        return even;
     }
 }
