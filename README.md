@@ -25,6 +25,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1672-richest-customer-wealth](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0278-first-bad-version) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
