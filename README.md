@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0136-single-number) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -115,5 +117,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
