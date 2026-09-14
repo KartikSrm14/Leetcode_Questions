@@ -11,7 +11,7 @@ class Solution {
         while(lo<=hi){
             int mid = (lo+hi)/2;
             if(arr[mid] == target){
-                lo = 0;
+
                 hi = mid-1;
                 first = mid;
             }
