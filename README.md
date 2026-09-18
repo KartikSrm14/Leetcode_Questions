@@ -39,6 +39,7 @@
 | [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -128,4 +129,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
