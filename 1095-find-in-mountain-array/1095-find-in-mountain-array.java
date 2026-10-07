@@ -14,11 +14,11 @@ class Solution {
 
     public static int zoey(int target,MountainArray arr){
         int peak_index = peak_index(arr);
-        int index = agnostic_BS(arr,target,0,peak_index);
+        int index = agnostic_BS(arr,target,0,peak_index,true);
         if(index!= -1){
             return index;
         }
-        return agnostic_BS(arr,target,peak_index+1,arr.length()-1);
+        return agnostic_BS(arr,target,peak_index+1,arr.length()-1,false);
     }
 
     public static int peak_index(MountainArray arr){
@@ -36,19 +36,17 @@ class Solution {
         return lo;
     }
 
-    public static int agnostic_BS(MountainArray arr, int target, int lo,int hi){
-        boolean IsAssen = false;
-        if(arr.get(lo)<arr.get(hi)){
-            IsAssen = true;
-        }
+    public static int agnostic_BS(MountainArray arr, int target, int lo,int hi,boolean IsAssen){
+        // default value of boolean is false
 
         while(lo<=hi){
             int mid = (lo+hi)/2;
-            if(arr.get(mid) == target){
+            int value = arr.get(mid); // to reduce api calls
+            if(value == target){
                 return mid;
             }
             if(IsAssen == true){
-                if(arr.get(mid) < target){
+                if(value < target){
                     lo = mid+1;
                 }
                 else{
@@ -56,7 +54,7 @@ class Solution {
                 }
             }
             else{
-                if(arr.get(mid) < target){
+                if(value < target){
                     hi = mid-1;
                 }
                 else{
