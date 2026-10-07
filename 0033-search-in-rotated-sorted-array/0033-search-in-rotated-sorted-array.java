@@ -1,49 +1,56 @@
 class Solution {
     public int search(int[] nums, int target) {
-        return zoey(nums, target);
+        return zoey(nums,target);
     }
 
     public static int zoey(int[] arr,int target){
-
-        int k = 0;
-        for(int i=1; i<arr.length; i++){
-            if(arr[i-1]<arr[i]){
-                k++;
-            }
-            else if(arr[i-1]>arr[i]){
-                break;
-            }
+        int peak = pivot(arr);
+        int ans = BS(arr,target,0,peak);
+        if(ans!=-1){
+            return ans;
         }
+        return BS(arr,target,peak+1,arr.length-1);
+    }
 
-        int lo = 0;
-        int hi = k;
+    public static int pivot(int[] arr){
+        int lo = 0 ;
+        int hi = arr.length-1;
+        while(lo<= hi){
+            int mid = (lo+hi)/2;
+            //4 cases
+            if(mid < hi && arr[mid]>arr[mid+1]){
+                return mid;
+            } 
+            if(mid > lo && arr[mid]<arr[mid-1]){
+                return mid-1;
+            } 
+            if(arr[mid] <= arr[lo]){
+                hi = mid-1;
+            }  
+            else{
+                lo = mid+1;
+            }
+    }
+    return -1;
+    }
+
+    public static int BS(int[] arr,int target,int lo,int hi){
         while(lo<=hi){
             int mid = (lo+hi)/2;
             if(arr[mid] == target){
                 return mid;
             }
-            else if(arr[mid] > target){
-                hi = mid-1;
+            else if(arr[mid]>target){
+                hi=mid-1;
             }
             else{
-                lo= mid+1;
+                lo=mid+1;
             }
         }
-
-        int lo2 = k+1;
-        int hi2 = arr.length-1;
-        while(lo2<=hi2){
-            int mid2 = (lo2+hi2)/2;
-            if(arr[mid2] == target){
-                return mid2;
-            }
-            else if(arr[mid2] > target){
-                hi2 = mid2-1;
-            }
-            else{
-                lo2= mid2+1;
-            }
-    }
-    return -1;
+        return -1;
     }
 }
+
+
+
+
