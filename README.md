@@ -26,6 +26,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
+| [1095-find-in-mountain-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -81,6 +82,7 @@
 | [0704-binary-search](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1095-find-in-mountain-array) |
 ## Matrix
 |  |
 | ------- |
@@ -143,4 +146,5 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
