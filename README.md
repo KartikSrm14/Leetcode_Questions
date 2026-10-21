@@ -20,6 +20,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0704-binary-search) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting Sort
@@ -63,6 +65,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
